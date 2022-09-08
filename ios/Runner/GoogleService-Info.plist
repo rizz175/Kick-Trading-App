@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>641504456745-j1pmi2tac96lh4gs8mk0unte9c14v1ui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.641504456745-j1pmi2tac96lh4gs8mk0unte9c14v1ui</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBta6wltnTLRyuYZk117HHFbiAaWsf9XQg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641504456745</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.kicksTrade</string>
+	<key>PROJECT_ID</key>
+	<string>ctr-project-9fd5e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ctr-project-9fd5e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641504456745:ios:cafc0c1b41ce0135b62c38</string>
+	<key>DATABASE_URL</key>
+	<string>https://ctr-project-9fd5e.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8920593526",
+    "firebase_url": "https://kicks-trade.firebaseio.com",
+    "project_id": "kicks-trade",
+    "storage_bucket": "kicks-trade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8920593526:android:ba7df9128e853adba79b57",
+        "android_client_info": {
+          "package_name": "com.example.kicks_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8920593526-uo8et48qsg0q89n3qcfbk32hkefe5car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt1OoGAl-zZ9mwEiuCvEX5XBn2Y_6d3Zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8920593526-uo8et48qsg0q89n3qcfbk32hkefe5car.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8920593526-kf8n475m4541ndh1qf6693d7kj3mmfh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kicksTrade"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

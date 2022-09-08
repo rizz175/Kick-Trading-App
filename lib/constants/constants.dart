@@ -1,0 +1,16 @@
+const String TWILIO_SMS_API_BASE_URL = 'https://api.twilio.com/2010-04-01';
+
+const String TWILIO_AUTH_TOKEN = '76868561d7bf4400109f5eb601d51ac4';
+const String TWILIO_ACCOUNTS_ID = 'ACf18b26eaf829833204d490ca0dfb4ba2';
+
+const String TWILIO_AUTH_TOKEN_DEV = 'd176fdca9f52c7e5f8c8cf18c63aaf6e';
+const String TWILIO_ACCOUNTS_ID_DEV = 'AC65d03962d521406e218071487757f1ba';
+
+const String TWILLIO_ACCOUNT_NUMBER = '+15042520921';
+const String TWILLIO_ACCOUNT_NUMBER_DEV = '+12058272606';
+
+
+const String APP_COLOR_RED = '#E61610';
+const String APP_COLOR_YELLOW = '#F4EB49';
+const String APP_COLOR_GREY_BLACK = '#231f20';
+const String APP_VERIFICATION_CODE = '1234';

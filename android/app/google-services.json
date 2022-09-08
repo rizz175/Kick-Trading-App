@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641504456745",
+    "firebase_url": "https://ctr-project-9fd5e.firebaseio.com",
+    "project_id": "ctr-project-9fd5e",
+    "storage_bucket": "ctr-project-9fd5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641504456745:android:414d64270b17ef3db62c38",
+        "android_client_info": {
+          "package_name": "com.example.kicks_trade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641504456745-ituelf4lgm6c29fru1dv29un7sri3ejf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmycQqvcx7lu8kp9RLAgDpv2BpYUhXTAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641504456745-ituelf4lgm6c29fru1dv29un7sri3ejf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
